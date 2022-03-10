@@ -66,6 +66,8 @@ td {
 }
 
 div img {
-    /* width: 50px; */
-    border-radius: 80%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
 }
